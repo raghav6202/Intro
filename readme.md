@@ -9,6 +9,7 @@ Hello !! welcome to my GitHub Profile.
 
 
 📌 My technical skills include :
+💻 Languages: HTML CSS JavaScript
 
    
 
